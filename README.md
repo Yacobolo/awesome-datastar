@@ -16,7 +16,6 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## BlogPosts
 
-- [How to create ChatGPT with Django and HTMX in 4 minutes 🦾](https://www.photondesigner.com/articles/chatgpt-htmx-django)
 - [Using Datastar](https://medium.com/@ianster/using-datastar-da1984a6cc77)
 - [The Microlith And A Simple Plan](https://medium.com/@ianster/the-microlith-and-a-simple-plan-e8b168dafd9e)
 
