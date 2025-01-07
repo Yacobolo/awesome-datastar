@@ -40,6 +40,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 - [northstar](https://github.com/zangster300/northstar) - Boilerplate for creating real-time Hypermedia applications with Datastar and Nats.
 - [realworld-datastar](https://github.com/delaneyj/realworld-datastar)
+- [craft-datastar-pokemon-demo](https://github.com/khalwat/craft-datastar-pokemon-demo) - Demo Pokemon site using Craft Datastar / Datastar with Craft CMS
 
 
 ## Podcasts
