@@ -31,7 +31,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 - [Real-time Hypermedia - Delaney Gillilan](https://www.youtube.com/watch?v=0K71AyAF6E4) - Talk at UtahJS Conf on September 13, 2024
 - [Hypermedia at 144fps!?](https://www.youtube.com/watch?v=HbTFlUqELVc) - Interview of Delaney Gillilan on hypermedia-tv
-- [Puffy does Realtime Hypermedia - Patrick Marchand - EuroBSDCon 2024]
+- [Puffy does Realtime Hypermedia - Patrick Marchand - EuroBSDCon 2024](https://www.youtube.com/watch?v=FMKdE4QFyNk)
   
 
 
