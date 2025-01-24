@@ -19,6 +19,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 - [Using Datastar](https://medium.com/@ianster/using-datastar-da1984a6cc77)
 - [The Microlith And A Simple Plan](https://medium.com/@ianster/the-microlith-and-a-simple-plan-e8b168dafd9e)
 
+- [Datstar first impressions](https://chrismalek.me/posts/data-star-first-impressions/)
 
 ## Tools
 
