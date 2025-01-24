@@ -45,3 +45,5 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 
 ## Podcasts
 
+- [Datastar - The hypermedia framwork](https://open.spotify.com/show/2DQ8iwAiLF8BhUaCos3t9U
+) - Official Datastar podcast by the creators.
