@@ -24,6 +24,7 @@ Hoping to keep this list updated as much as possible, any new links through PRs 
 ## Tools
 
 - [Datastar Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=starfederation.datastar-vscode)
+- [Datastar Extension for Neovim (nvim-cmp)](https://github.com/YuryKL/cmp-datastar/)
 - [Datastar Plugin for JetBrains](https://plugins.jetbrains.com/plugin/26072-datastar-support)
 - [Datastar Plugin for Craft CMS](https://plugins.craftcms.com/datastar)
 
